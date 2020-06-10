@@ -12,5 +12,6 @@ Ngôn ngữ Javascript
 
 - hinhnen.onload = function() {} dùng load hinhnen, để có thể sử dụng height, width của hinhnen image
 
-Result:
+Demo:
 
+<img src="/images/Untitled1.png">
