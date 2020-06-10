@@ -14,3 +14,4 @@ Ngôn ngữ Javascript
 
 Demo:
 
+<img src="/images/demoFlappyBird.gif"/>
