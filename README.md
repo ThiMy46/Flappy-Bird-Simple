@@ -14,4 +14,3 @@ Ngôn ngữ Javascript
 
 Demo:
 
-<img src="/images/Untitled1.png">
